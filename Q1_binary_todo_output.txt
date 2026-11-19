@@ -1,0 +1,4 @@
+Book 1021 -> index 0, comparisons = 3
+Book 1305 -> index 5, comparisons = 3
+Book 1533 -> index 9, comparisons = 4
+Book 1400 -> index -1, comparisons = 4

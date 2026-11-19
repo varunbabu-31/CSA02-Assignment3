@@ -1,0 +1,11 @@
+=== Hand-Verified Test (10 Ballots) ===
+Total Ballots: 10 | Valid: 7 | Invalid: 3
+  #1 [Cand 1 - Aarav]: 3 votes
+  #2 [Cand 2 - Bhavna]: 3 votes
+  #3 [Cand 3 - Charan]: 1 votes
+  #4 [Cand 4 - Divya]: 0 votes
+Result: TIE at 3 votes between: Aarav Bhavna
+
+=== Performance Benchmark ===
+Votes = 5000    -> Avg Execution Time = 0.0141 ms
+Votes = 500000  -> Avg Execution Time = 2.1391 ms

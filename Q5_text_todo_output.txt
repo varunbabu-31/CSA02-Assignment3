@@ -1,0 +1,3 @@
+Words: 7
+1 0
+Tab test ('Hello\tWorld'): 1

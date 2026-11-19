@@ -1,0 +1,3 @@
+Standard merge: 98 95 91 91 85 80 72 
+One empty list: 98 91 85 72 
+All equal:      90 90 90 90 90 

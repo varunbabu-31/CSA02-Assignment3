@@ -1,0 +1,15 @@
+=== n = 100 ===
+Sorted       | Bub(C=99,M=0) | Sel(C=4950,M=0) | Ins(C=99,M=198)
+NearlySorted | Bub(C=197,M=9) | Sel(C=4950,M=9) | Ins(C=102,M=201)
+Reverse      | Bub(C=4950,M=14850) | Sel(C=4950,M=150) | Ins(C=4950,M=5148)
+Random       | Bub(C=4922,M=7443) | Sel(C=4950,M=285) | Ins(C=2576,M=2679)
+=== n = 1000 ===
+Sorted       | Bub(C=999,M=0) | Sel(C=499500,M=0) | Ins(C=999,M=1998)
+NearlySorted | Bub(C=1997,M=63) | Sel(C=499500,M=63) | Ins(C=1019,M=2019)
+Reverse      | Bub(C=499500,M=1498500) | Sel(C=499500,M=1500) | Ins(C=499500,M=501498)
+Random       | Bub(C=498597,M=783348) | Sel(C=499500,M=2976) | Ins(C=262104,M=263114)
+=== n = 10000 ===
+Sorted       | Bub(C=9999,M=0) | Sel(C=49995000,M=0) | Ins(C=9999,M=19998)
+NearlySorted | Bub(C=29994,M=585) | Sel(C=49995000,M=585) | Ins(C=10194,M=20193)
+Reverse      | Bub(C=49995000,M=149985000) | Sel(C=49995000,M=15000) | Ins(C=49995000,M=50014998)
+Random       | Bub(C=49986354,M=74337108) | Sel(C=49995000,M=29964) | Ins(C=24789025,M=24799034)

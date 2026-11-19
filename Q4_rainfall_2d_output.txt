@@ -1,0 +1,6 @@
+District Totals: D0=400.0, D1=100.0, D2=175.0
+Monthly State Avg: M0=53.33, M1=60.00, M2=50.00, M3=61.67
+Wettest: District 0, Month 1 (120.0 mm)
+State Avg Annual = 225.00 mm | 60% Threshold = 135.00 mm
+Deficient Districts: D1 (100.0) 
+2000x2000 (20 runs) Row-wise: 0.3277 s | Col-wise: 0.3728 s

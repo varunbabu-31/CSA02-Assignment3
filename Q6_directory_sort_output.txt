@@ -1,0 +1,3 @@
+n=100  | CopySort: cmp=4950, copies=222750 | IdxSort: cmp=4950, copies=0 | Search(found=6, miss=7)
+n=500  | CopySort: cmp=124750, copies=5613750 | IdxSort: cmp=124750, copies=0 | Search(found=8, miss=9)
+n=5000 | CopySort: cmp=12497500, copies=562387500 | IdxSort: cmp=12497500, copies=0 | Search(found=12, miss=13)

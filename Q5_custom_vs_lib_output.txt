@@ -1,0 +1,2 @@
+Custom vs Lib Match = 1 (  CSA02_LAB!  )
+Reversed String     =   !BAL_20ASC  
